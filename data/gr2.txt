@@ -1,0 +1,6 @@
+G2
+x,y,z
+S->xX|yY|zZ|ε
+X->x|S
+Y->y|yY|z
+Z->z|zZ
